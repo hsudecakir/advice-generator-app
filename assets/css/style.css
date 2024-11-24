@@ -74,6 +74,8 @@ table {
   gap: 24px;
   box-shadow: 30px 50px 80px 0px #0000001A;
   position: absolute;
+  top: 50%;
+    transform: translateY(-50%);
 }
 
 .container.animation{
