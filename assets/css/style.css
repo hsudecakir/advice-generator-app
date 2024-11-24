@@ -76,9 +76,9 @@ table {
   position: absolute;
 }
 
-.container.animation{
+/* .container.animation{
   animation: generate 2s linear;
-}
+} */
 
 #adviceId{
   font-size: 11px;
